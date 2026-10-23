@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cdr-skill-demo"
+version = "0.1.0"
+description = "Offline companion demo for contract-guided cross-dataset reusable data-analysis skills"
+requires-python = ">=3.12"
+dependencies = ["numpy==2.3.5", "pandas==3.0.1"]
+
+[tool.setuptools.packages.find]
+include = ["cdr_skill*"]
