@@ -1,0 +1,8 @@
+{
+  "source_document": "CDR-Skill_English_Submission.md",
+  "section": "5.1 Contract-Based IQR Function Example",
+  "function": "adaptive_robust_outlier_impute",
+  "extraction": "Exact function source, with module imports added; no function edits",
+  "function_source_sha256": "cf2fdf7cdb0c7688f80032bc41c0ac0b4ef0f36e2c4b06eb6884420f2ae890d1",
+  "manuscript_context": "ver7: Contract Guided Generation and Verification of Reusable Data Analysis Skills"
+}
